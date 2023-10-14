@@ -13,4 +13,5 @@ title: Researches
 
 ## Undergraduate Thesis
 
-- Diagnosis of Parkinson's disease <br[Advisor: Dr. Armin Salimi-Badr](https://scholar.google.com/citations?hl=en&user=akmKmMQAAAAJ). Under working<br> A Deep Learning-Based Method for Parkinson's Disease Diagnosis from EEG Signals. Enhanced an existing CNN model with the SincNet architecture
+- Diagnosis of Parkinson's disease. A Deep Learning-Based Method for Parkinson's Disease Diagnosis from EEG Signals. Enhanced an existing CNN model with the SincNet architecture. This project is under working.
+- [Advisor: Dr. Armin Salimi-Badr](https://scholar.google.com/citations?hl=en&user=akmKmMQAAAAJ).
