@@ -39,14 +39,14 @@ links:
   #   url: /file/CV-HanlinCAI.pdf
   - title: Reaerches
     url: /researches/
-  - title: Honors
+  - title: Honors & Certificates
     url: /honors/
   - title: Teaching
-    url: /teaching/
+    url: /teachings/
   - title: Projects
     url: /projects/
   - title: Work Experiences
-    url: /working/
+    url: /experiences/
 
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
