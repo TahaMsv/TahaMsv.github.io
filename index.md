@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://github.com/TahaMsv/TahaMsv.github.io/blob/gh-pages/images/Profile3.jpg" class="floatpic" width="360" height="480">
+<img src="https://github.com/TahaMsv/TahaMsv.github.io/blob/99afe6141473552f9305fa85f598e02bff58089b/images/Profile3.jpg" class="floatpic" width="360" height="480">
 
 Here is **Taha Mousavi**.
 
