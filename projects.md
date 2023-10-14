@@ -4,7 +4,7 @@ permalink: projects/index.html
 title: Projects
 ---
 
-## [User Audience Prediction using NLP Approaches]
+## [User Audience Prediction using NLP Approaches](https://gist.github.com/TahaMsv/8510e7f9cf65a300895ea6881a960e5b)
 
 <br>
 Developed an end-to-end model for predicting user audience questions using Naive Bayes algorithm and achieved an accuracy of 0.83
@@ -17,7 +17,7 @@ Implemented a face verification system using FaceNet and achieved face feature e
 
 Performed data preprocessing, feature extraction, and implemented unsupervised machine learning techniques for anomaly detection. Utilized techniques like PCA, feature selection based on normal distribution, Gaussian method, DBSCAN, and Isolation Forest
 
-## [Software Testing using Selenium]
+## [Software Testing using Selenium](https://github.com/TahaMsv/Software-Testing-using-Selenium/tree/main)
 
 Developed automated testing scenarios using Selenium to validate functionality and report bugs for improved product quality
 
