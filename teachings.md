@@ -4,7 +4,7 @@ permalink: teachings/index.html
 title: Teachings
 ---
 
-## Teaching Experience as 
+## Teaching Experience
 ### As Teacher Assistant
 I have mentored as a teacher assistant in multiple courses, guiding students through homework, projects, and quizzes. Additionally, I provided lectures to enhance their knowledge.
 - Head TA of Advanced Programming by [Dr. Vahidi Asl](https://scholar.google.com/citations?hl=en&user=Ex_tgAgAAAAJ) (2021-2022)
