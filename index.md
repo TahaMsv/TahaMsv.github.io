@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://github.com/TahaMsv/TahaMsv.github.io/images/Profile3.jpg" class="floatpic" width="360" height="480">
+<img src="https://tahamsv.github.io/images/Profile3.jpg" class="floatpic" width="360" height="480">
 
 Here is **Taha Mousavi**. I am a bachelor student majoring in **Computer Engineering** at Shahid Beheshti University of Iran. Currently, I work as a research assistant in the **NLP Lab**, advised by [Dr. Mehrnoush Shamsfard](https://scholar.google.com/citations?hl=en&user=BVAsKDsAAAAJ). Here is [[my CV](https://tahamsv.github.io/file/cv.pdf)].
 
