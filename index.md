@@ -6,7 +6,7 @@ layout: page
 
 <img src="https://tahamsv.github.io/images/Profile4.jpg" class="floatpic" width="360" height="480">
 
-Here is **Taha Mousavi**. I am a bachelor student majoring in **Computer Engineering** at Shahid Beheshti University of Iran. Currently, I work as a research assistant in the **NLP Lab**, advised by [Dr. Mehrnoush Shamsfard](https://scholar.google.com/citations?hl=en&user=BVAsKDsAAAAJ). Here is [[my CV](https://tahamsv.github.io/file/cv.pdf)].
+Here is **Taha Mousavi**. I am a bachelor student majoring in **Computer Engineering** at Shahid Beheshti University of Iran. Currently, I work as a research assistant in the [**NLP Lab**](http://nlp.sbu.ac.ir/english/Main.aspx), supervised by [Dr. Mehrnoush Shamsfard](https://scholar.google.com/citations?hl=en&user=BVAsKDsAAAAJ). Here is [[my CV](https://tahamsv.github.io/file/cv.pdf)].
 
 <br>
 
@@ -24,8 +24,10 @@ Here is **Taha Mousavi**. I am a bachelor student majoring in **Computer Enginee
 - Deep Learning
 - Natural language processing
 - Computer vision
+- AI For Healthcare
 
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
+My research interests encompass exploring these fields to develop innovative solutions for real-world challenges. I am particularly interested in applications related to user behavior analysis and interaction with users.
+I am committed to pushing the boundaries of technology and my enthusiasm for interdisciplinary research. Also, I like to contribute to the development of cutting-edge technologies and leverage the power of AI to make a meaningful impact on society.
 
 <br>
 
