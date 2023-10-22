@@ -13,7 +13,8 @@ Working in Shahid Beheshti NLP lab, Under the supervision of [Dr. Mehrnoush Sham
 - With the goal of publishing a research paper.
 
 
-### Contributed to a project focused on complex query intent detection in chatbots. This project achieved 4th place at Amirkabir Artificial Intelligence Competitions (AAIC).
+### Contributed to a project focused on complex query intent detection in chatbots: 
+- This project achieved 4th place at Amirkabir Artificial Intelligence Competitions (AAIC).
 
 
 
