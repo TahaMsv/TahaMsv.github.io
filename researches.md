@@ -5,9 +5,17 @@ title: Researches
 ---
 
 ## NLP Lab
+Working in Shahid Beheshti NLP lab, Under the supervision of [Dr. Mehrnoush Shamsfard](https://scholar.google.com/citations?hl=en&user=BVAsKDsAAAAJ). I collaborate in research projects with this laboratory. Also, the article is in the process of publication.
 
-- Working in Shahid Beheshti NLP lab, Under the supervision of [Dr. Mehrnoush Shamsfard](https://scholar.google.com/citations?hl=en&user=BVAsKDsAAAAJ). I collaborate in research projects with this lab. The paper is still **under publish**. 
-- Contributed to a project focused on complex query intent detection in chatbots. This project achieved 4th place at Amirkabir Artificial Intelligence Competitions (AAIC).
+### Detecting Offensive and Out-of-Domain Sentences: 
+- Detecting and validating offensive sentences using deep learning models and available data.
+- Developing custom frameworks for structuring positive and negative sentences within texts for use in various projects.
+- With the goal of publishing a research paper.
+
+
+### Contributed to a project focused on complex query intent detection in chatbots. This project achieved 4th place at Amirkabir Artificial Intelligence Competitions (AAIC).
+
+
 
 ---
 
