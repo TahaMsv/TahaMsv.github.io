@@ -35,8 +35,8 @@ google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 links:
   - title: About Me
     url: /
-  # - title: Resume
-  #   url: /file/CV-HanlinCAI.pdf
+  - title: CV
+    url: https://tahamsv.github.io/file/cv.pdf
   - title: Reaerches
     url: /researches/
   - title: Honors & Certificates
