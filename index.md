@@ -6,7 +6,7 @@ layout: page
 
 <img src="https://tahamsv.github.io/images/Profile4.jpg" class="floatpic" width="360" height="480">
 
-Here is **Taha Mousavi**. I am a bachelor student majoring in **Computer Engineering** at Shahid Beheshti University of Iran. Currently, I work as a research assistant in the [**NLP Lab**](http://nlp.sbu.ac.ir/english/Main.aspx), supervised by [Dr. Mehrnoush Shamsfard](https://scholar.google.com/citations?hl=en&user=BVAsKDsAAAAJ). Here is **[[my CV](https://tahamsv.github.io/file/cv.pdf)]**.
+Here is **Taha Mousavi**. I am a bachelor student majoring in **Computer Engineering** at Shahid Beheshti University of Iran. Currently, I work as a research assistant in the [**NLP Lab**](http://nlp.sbu.ac.ir/english/Main.aspx), supervised by [Dr. Mehrnoush Shamsfard](https://scholar.google.com/citations?hl=en&user=BVAsKDsAAAAJ). Here is **[[my CV](https://tahamsv.github.io/file/CV Taha Mousavi.pdf)]**.
 
 <br>
 
